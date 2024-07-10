@@ -31,4 +31,4 @@ Ensure you have the following Python packages installed:
 - `requests`
 
 You can install them using pip:
-pip install shareplum python-dotenv requests
+`pip install shareplum python-dotenv requests`
