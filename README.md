@@ -7,11 +7,12 @@ Create a `.env` file in the root directory with the following variables:
 - `SP_USERNAME`: Your SharePoint username.
 - `SP_PASSWORD`: Your SharePoint password.
 
-### Property Files
+### Property Files 
 The `sp_config.properties` file should contain the SharePoint site URL configuration:
 - `sharepoint_site`
 - `base_site_url`
 - `doc_library`
+###
 The `tch_config.properties` file should contain Teams channel configuration:
 - `webhook_url`: The webhook URL for your Teams channel.
 
